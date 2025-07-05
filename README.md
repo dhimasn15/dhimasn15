@@ -15,8 +15,8 @@
 🌟 **[Battle of Creatures](https://github.com/dhimasnurhidayat/battle-of-creatures-oop)** – Game OOP Java dengan sistem pertarungan antar makhluk untuk pemahaman inheritance dan polymorphism.
 
 ## 📈 Statistik GitHub
-![Dhimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhimasnurhidayat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasnurhidayat&layout=compact&theme=radical)
+![Dhimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhimasn15&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasn15&layout=compact&theme=radical)
 
 ## 💡 Sedang Dipelajari
 - Machine Learning dasar untuk analisis data.
