@@ -3,11 +3,10 @@
 🎓 Mahasiswa Informatika yang antusias membangun solusi praktis melalui pengembangan aplikasi dan web, dengan minat di software engineering, data, dan open source. Saat ini aktif mengerjakan beberapa proyek kampus dan pribadi untuk memperkuat keterampilan praktis saya.
 
 ## ⚡ Keahlian
-- **Bahasa:** Java, PHP, JavaScript (Node.js), Python (untuk data)
-- **Framework:** Laravel, Express, JSP/Servlet
-- **Tools:** Git, GitHub, Figma, NetBeans, VS Code
-- **Lainnya:** SQL, OOP, REST API, Data Analysis (pandas, matplotlib)
-
+- **Bahasa:** PHP, JavaScript (Node.js),
+- **Framework:** Laravel, NextJS
+- **Tools:** Git, GitHub, Figma, VS Code
+- **Lainnya:** SQL, OOP, REST API
 ## 🚀 Proyek Pilihan
 🌟 **[TaskU](https://github.com/dhimasnurhidayat/tasku-webapp)** – Aplikasi web layanan mahasiswa untuk membantu kebutuhan harian di kampus.  
 🌟 **[Mystery of the Forgotten Temple](https://github.com/dhimasnurhidayat/mystery-temple-java)** – Game *text-based adventure* dengan OOP Java.  
